@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -37,6 +37,10 @@
   "resources":[
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
+    {"id":{"name":"spr_kris_wd","path":"sprites/spr_kris_wd/spr_kris_wd.yy",},},
+    {"id":{"name":"spr_kris_wl","path":"sprites/spr_kris_wl/spr_kris_wl.yy",},},
+    {"id":{"name":"spr_kris_wr","path":"sprites/spr_kris_wr/spr_kris_wr.yy",},},
+    {"id":{"name":"spr_kris_wu","path":"sprites/spr_kris_wu/spr_kris_wu.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
