@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"spr_kris_wl",
   "bboxMode":0,
-  "bbox_bottom":37,
+  "bbox_bottom":36,
   "bbox_left":0,
   "bbox_right":18,
   "bbox_top":0,

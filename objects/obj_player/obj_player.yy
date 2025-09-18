@@ -38,6 +38,9 @@
     "name":"spr_kris_wd",
     "path":"sprites/spr_kris_wd/spr_kris_wd.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"spr_kris_wd",
+    "path":"sprites/spr_kris_wd/spr_kris_wd.yy",
+  },
   "visible":true,
 }
