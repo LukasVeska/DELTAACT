@@ -30,10 +30,10 @@ y += yspd
 // animate
 if (xspd>0){
 	sprite_index = spr_kris_wr
-} else if (xspd<0){
-	sprite_index = spr_kris_wl
 } else if (yspd>0){
-	sprite_index = spr_kris_wd
+	sprite_index = spr_kris_wd 
+} else if (xspd<0){
+	sprite_index = spr_kris_wl 
 } else if (yspd<0){
 	sprite_index = spr_kris_wu
 }
