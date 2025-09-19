@@ -43,6 +43,7 @@
     {"id":{"name":"spr_kris_wl","path":"sprites/spr_kris_wl/spr_kris_wl.yy",},},
     {"id":{"name":"spr_kris_wr","path":"sprites/spr_kris_wr/spr_kris_wr.yy",},},
     {"id":{"name":"spr_kris_wu","path":"sprites/spr_kris_wu/spr_kris_wu.yy",},},
+    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
