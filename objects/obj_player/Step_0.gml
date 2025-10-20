@@ -36,9 +36,13 @@ if (xspd>0){
 	sprite_index = spr_kris_wl 
 } else if (yspd<0){
 	sprite_index = spr_kris_wu
+} else{
+	image_index = 0
 }
 
-if (xspd != 0 or yspd != 0){
+if (keyboard_check(vk_shift) or keyboard_check(ord("R")) and xspd != 0 or yspd != 0){
+	image_speed = 1.5
+} else if (xspd != 0 or yspd != 0){
 	image_speed = 1
 } else{
 	image_speed = 0
