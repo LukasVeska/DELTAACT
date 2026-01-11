@@ -1,4 +1,4 @@
-/// @descriptioncreate runs upon creation
+/// @description create runs upon creation. Defined speed of movement
 // define variables
 xspd = 0
 yspd = 0
