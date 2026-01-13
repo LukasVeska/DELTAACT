@@ -5,4 +5,4 @@ yspd = 0
 
 move_spd = 1.4
 walk_spd = 1.4
-run_spd = 2.8
+run_spd = 4

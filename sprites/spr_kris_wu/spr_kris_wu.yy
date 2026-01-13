@@ -29,7 +29,7 @@
   "origin":4,
   "parent":{
     "name":"kris",
-    "path":"folders/Sprites/kris.yy",
+    "path":"folders/Sprites/characters/kris.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
