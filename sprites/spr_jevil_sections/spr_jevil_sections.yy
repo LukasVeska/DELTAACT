@@ -2,7 +2,7 @@
   "$GMSprite":"v2",
   "%Name":"spr_jevil_sections",
   "bboxMode":0,
-  "bbox_bottom":187,
+  "bbox_bottom":250,
   "bbox_left":0,
   "bbox_right":187,
   "bbox_top":0,

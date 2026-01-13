@@ -48,3 +48,20 @@ if keyboard_check(vk_shift) or keyboard_check(ord("R")){
 	image_speed = 0
 	image_index = 0
 }
+// antishake
+x[0] = round(x[0.1]);
+y[0] = round(y[0.1]);
+
+// keep track of direction facing
+//if (sprite_index = spr_kris_wd){
+//	facing_direction = 2
+//}
+//if (sprite_index = spr_kris_wu){
+//	facing_direction = 3
+//}
+//if (sprite_index = spr_kris_wr){
+//	facing_direction = 0
+//}
+//if (sprite_index = spr_kris_wl){
+//	facing_direction = 1
+//}

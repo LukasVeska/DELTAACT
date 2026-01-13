@@ -1,3 +1,4 @@
 target_x = 160;
 target_y = 20;
 target_rm = rm_2;
+facing = 2;
