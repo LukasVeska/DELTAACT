@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_collider",
+  "%Name":"obj_Jevil",
   "eventList":[],
   "managed":true,
-  "name":"obj_collider",
+  "name":"obj_Jevil",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_collider",
-    "path":"sprites/spr_collider/spr_collider.yy",
+    "name":"spr_jevil_combat_3_4",
+    "path":"sprites/spr_jevil_combat_3_4/spr_jevil_combat_3_4.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
