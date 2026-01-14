@@ -1,13 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_buttons",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":38,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":40,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_fountain",
+  "eventList":[],
   "managed":true,
-  "name":"obj_buttons",
+  "name":"obj_fountain",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -32,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_buttons",
-    "path":"sprites/spr_buttons/spr_buttons.yy",
+    "name":"spr_fountain",
+    "path":"sprites/spr_fountain/spr_fountain.yy",
   },
   "spriteMaskId":null,
   "visible":true,
