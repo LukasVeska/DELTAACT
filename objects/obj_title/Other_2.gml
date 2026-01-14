@@ -20,7 +20,7 @@ global.rm8 = 8
 
 
 if (file_exists("deltaakt.ini")){
-	instance_create_depth(20,40,100, obj_buttons_continue)
+	instance_create_depth(20,40,100, obj_buttons_cont)
 	
 	ini_open("deltaakt.ini")
 	global.start_room = ini_read_real("Save1", "room", rm_1);
@@ -28,7 +28,7 @@ if (file_exists("deltaakt.ini")){
 	global.start_y = ini_read_real("Save1", "y", 200);
 	ini_close()
 } else{
-	instance_create_depth(20,40,100, obj_buttons_continue)
+	instance_create_depth(20,40,100, obj_buttons)
 }
 if(global.start_room = 8){
 	global.start_room = rm_8

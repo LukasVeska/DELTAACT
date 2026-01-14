@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_buttons_continue",
+  "%Name":"obj_buttons_cont",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":38,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":40,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_buttons_continue",
+  "name":"obj_buttons_cont",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_buttons",
-    "path":"sprites/spr_buttons/spr_buttons.yy",
+    "name":"spr_buttons_cont",
+    "path":"sprites/spr_buttons_cont/spr_buttons_cont.yy",
   },
   "spriteMaskId":null,
   "visible":true,

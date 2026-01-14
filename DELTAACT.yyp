@@ -43,7 +43,7 @@
   "resources":[
     {"id":{"name":"Gerson","path":"objects/Gerson/Gerson.yy",},},
     {"id":{"name":"obj_background_title","path":"objects/obj_background_title/obj_background_title.yy",},},
-    {"id":{"name":"obj_buttons_continue","path":"objects/obj_buttons_continue/obj_buttons_continue.yy",},},
+    {"id":{"name":"obj_buttons_cont","path":"objects/obj_buttons_cont/obj_buttons_cont.yy",},},
     {"id":{"name":"obj_buttons","path":"objects/obj_buttons/obj_buttons.yy",},},
     {"id":{"name":"obj_collider","path":"objects/obj_collider/obj_collider.yy",},},
     {"id":{"name":"obj_fireplace","path":"objects/obj_fireplace/obj_fireplace.yy",},},
@@ -73,7 +73,7 @@
     {"id":{"name":"spr_background_title","path":"sprites/spr_background_title/spr_background_title.yy",},},
     {"id":{"name":"spr_bed","path":"sprites/spr_bed/spr_bed.yy",},},
     {"id":{"name":"spr_bush","path":"sprites/spr_bush/spr_bush.yy",},},
-    {"id":{"name":"spr_buttons_1","path":"sprites/spr_buttons_1/spr_buttons_1.yy",},},
+    {"id":{"name":"spr_buttons_cont","path":"sprites/spr_buttons_cont/spr_buttons_cont.yy",},},
     {"id":{"name":"spr_buttons","path":"sprites/spr_buttons/spr_buttons.yy",},},
     {"id":{"name":"spr_collider","path":"sprites/spr_collider/spr_collider.yy",},},
     {"id":{"name":"spr_fireplace","path":"sprites/spr_fireplace/spr_fireplace.yy",},},
